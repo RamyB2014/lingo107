@@ -2,14 +2,14 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="Tomato.docx"
     source-language="en-us"
-    target-language="es"
+    target-language="sq"
     MadCap:file-filter=""
-    datatype="x-xlf">
+    datatype="x-docx">
     <header>
       <skl><external-file
           href="Tomato.docx.skl" /></skl>
@@ -63,8 +63,8 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="2"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">SLDkjf;alksjdf </mrk><mrk
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Untranslated"
